@@ -62,8 +62,8 @@ int main(int argc, char **argv) {
 	}
 
 	//bouncer = al_create_bitmap(BOUNCER_SIZE, BOUNCER_SIZE);
-	bouncer = al_load_bitmap("C:\\Users\\ADMIN\\Documents\\Visual Studio 2015\\Projects\\Gwent\\Gwent\\Images\\background.jpg");
-	card = al_load_bitmap("C:\\Users\\ADMIN\\Documents\\Visual Studio 2015\\Projects\\Gwent\\Gwent\\Images\\northernRealmsP1.png");
+	bouncer = al_load_bitmap("Images\\background.jpg");
+	card = al_load_bitmap("Images\\northernRealmsP1.png");
 
 
 	if (!bouncer) {
