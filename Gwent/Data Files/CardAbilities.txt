@@ -1,0 +1,14 @@
+CardAbilities
+
+1;Agile
+2;Berserker
+3;Mardroeme
+4;Medic
+5;MoraleBoost
+6;Muster
+7;Spy
+8;TightBond
+9;LeaderCard
+10;CharacterCard
+11;WeatherCard
+12;SpecialCard

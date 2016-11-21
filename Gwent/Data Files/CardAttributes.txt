@@ -1,0 +1,22 @@
+CardAttributes
+
+SiledeTransarville;NorthernRealmsP1;11;16;218;414;5
+PrinceStennis;NorthernRealmsP1;233;16;218;414;5
+CrinfriedReaversDragonhunter;NorthernRealmsP1;455;16;218;414;5
+DunbannerMedic;NorthernRealmsP1;677;16;218;414;5
+SigismundDijkstra;NorthernRealmsP1;11;437;218;414;4
+SabrinaGlevissig;NorthernRealmsP1;233;437;218;414;4
+SheldonSkaggs;NorthernRealmsP1;455;437;218;414;4
+BlueStripesCommando;NorthernRealmsP1;677;437;218;414;4
+YarpenZigrin;NorthernRealmsP1;11;858;218;414;2
+Thaler;NorthernRealmsP1;233;858;218;414;1
+PoorFuckingInfantry;NorthernRealmsP1;455;858;218;414;1
+RedanianFootSoldier;NorthernRealmsP1;677;858;218;414;1
+
+
+Syntax:
+CardName;jpg;cardx;cardy;Cardwidth;Cardheight;CardStrength
+
+
+x between cards: 4
+y between cards: 7
